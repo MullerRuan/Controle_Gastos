@@ -1,0 +1,27 @@
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# .NET
+bin/
+obj/
+
+# VS
+.vs/
+
+# Banco SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Outros
+.DS_Store
